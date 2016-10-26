@@ -1,0 +1,62 @@
+.sp {
+  margin: 3.5px;
+}
+h3, h5 {
+  color:white;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background: black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.calc {
+  width: 350px;
+  height: 450px;
+  margin-top: 100px;
+  border: 2px solid black;
+  border-radius: 1%;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  background: #051e84;
+}
+
+#sun {
+  margin-left: 40px;
+  color: yellow;
+  font-size: 30px
+}
+
+#moon {
+  color: blue;
+  font-size: 30px;
+  margin-left: 40px;
+}
+
+#clouds {
+  color: white;
+  font-size: 30px;
+  margin-left: 40px;
+}
+
+#up {
+  color: red;
+  font-size: 30px;
+  margin-left: 40px;
+}
+
+.screen {
+  height: 40px;
+  background: black;
+  border: 1px soild white;
+  margin-bottom: 20px;
+  color: white;
+}
